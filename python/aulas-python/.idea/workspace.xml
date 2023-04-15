@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e0f0216-b3ce-4687-bdd2-d2237a6d3640" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aula06a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula06b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/EXERCÍCIOS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aulas-python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex000.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex001.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafios-python/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafios-python/.idea/desafios-python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafios-python/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafios-python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafios-python/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafios-python/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafios-python/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafios-python/desafio003.py" beforeDir="false" afterPath="$PROJECT_DIR$/../desafios-pyhton/desafio003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafios-python/desafio004.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +38,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/guilh/OneDrive/Documentos/GUILHERME/ESTUDOS/Estudos-de-Programacao/python/desafios-python",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/guilh/OneDrive/Documentos/GUILHERME/ESTUDOS/Estudos-de-Programacao/python/desafios-python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\guilh\OneDrive\Documentos\GUILHERME\ESTUDOS\Estudos-de-Programacao\python\aulas-python\desafios-python" />
