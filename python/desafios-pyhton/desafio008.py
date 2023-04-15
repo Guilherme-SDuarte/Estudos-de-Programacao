@@ -1,4 +1,9 @@
 n = int(input('Digite um valor em metros: '))
-n1 = n * 100
-n2 = n * 1000
-print('{} metros são {} centímetros e {} milímetros'.format(n, n1, n2))
+km = n / 1000
+hm = n / 100
+dam = n / 10
+dm = n * 10
+cm = n * 100
+mm = n * 1000
+print('{} metros são: \n{} Milímetros\n{} Centímetros\n{} Decímetros\n{} Metros\n{} Decâmetros\n{} Hectômetros\n{} Kilômetros'.format(n, mm, cm, dm, n, dam, hm, km))
+
