@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e0f0216-b3ce-4687-bdd2-d2237a6d3640" name="Changes" comment="" />
+    <list default="true" id="8e0f0216-b3ce-4687-bdd2-d2237a6d3640" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/aula09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,20 +31,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/guilh/OneDrive/Documentos/GUILHERME/ESTUDOS/Estudos-de-Programacao/python/desafios-python",
-    "settings.editor.selected.configurable": "configurable.group.language"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/guilh/OneDrive/Documentos/GUILHERME/ESTUDOS/Estudos-de-Programacao/python/desafios-python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\guilh\OneDrive\Documentos\GUILHERME\ESTUDOS\Estudos-de-Programacao\python\aulas-python\desafios-python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.aula08a">
+  <component name="RunManager" selected="Python.aula09">
     <configuration name="aula06a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="aulas-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="aulas-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\guilh\OneDrive\Documentos\GUILHERME\ESTUDOS\Estudos-de-Programacao\python\aulas-python\desafios-python\desafio003.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula09.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula09" />
         <item itemvalue="Python.aula08a" />
         <item itemvalue="Python.aula07a" />
         <item itemvalue="Python.aula06b" />
         <item itemvalue="Python.aula06a" />
-        <item itemvalue="Python.desafio003" />
       </list>
     </recent_temporary>
   </component>
