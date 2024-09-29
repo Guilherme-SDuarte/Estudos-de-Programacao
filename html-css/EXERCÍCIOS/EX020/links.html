@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+
+        /*  SELETORES PERSONALIZADOS
+            #   = id
+            .   = class
+            :   = pseudo-classes
+            ::  = pseudo-elementos
+            >   = children
+        */
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        a {
+            color: rgb(3, 147, 147);
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            color: rgb(2, 94, 94);
+            text-decoration: underline;
+        }
+
+        a:active {
+            color: aqua;
+        }
+        a::after {
+            content: ' [link]';
+            text-decoration: none;
+            font-weight: normal;
+            color: aquamarine;
+        }
+    </style>
+</head>
+<body>
+    <h1>Personalizando Links</h1>
+    <ul>
+        <li><a href="https://github.com/Guilherme-SDuarte" target="_blank">Repositório GitHub</a></li>
+        <li><a href="https://www.youtube.com/@GuilhermeDuarte-1405" target="_blank">Canal do Youtube</a></li>
+        <li><a href="https://www.youtube.com/c/CursoemV%C3%ADdeo" target="_blank">Site do Curso em Vídeo</a></li>
+    </ul>
+</body>
+</html>
